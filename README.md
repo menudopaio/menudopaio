@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/menudopaio/CirsaDesdeCero)
+![MasterHead](https://github.com/menudopaio/Wimit-CS50/tree/main/static/img/coding.png)
 
 <h1 align="center">Hi 👋, I'm David Gonzalez</h1>
 <h3 align="center">Tracing the Path from Learning to Achievement</h3>
