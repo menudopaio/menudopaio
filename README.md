@@ -1,4 +1,4 @@
-![MasterHead](https://www.elrastrillodemama.com/media/k2/items/cache/e02fde07d49ee258cc3f6d1b19207757_XL.jpg)
+![MasterHead](https://github.com/menudopaio/CirsaDesdeCero)
 
 <h1 align="center">Hi 👋, I'm David Gonzalez</h1>
 <h3 align="center">Tracing the Path from Learning to Achievement</h3>
