@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menudopaio&label=Profile%20views&color=0e75b6&style=flat" alt="menudopaio" /> </p>
 
 
-- 🔭 I’m currently working on [Cirsa Tech Hub](menudopaio.github.io/CirsaDesdeCero)
+- 🔭 I’m currently working on [Cirsa Tech Hub](https://menudopaio.github.io/CirsaDesdeCero)
 
 - 🌱 I’m currently learning **Blazor, .NET**
 
-- 👨‍💻 All of my projects are available at [github.com/menudopaio](github.com/menudopaio)
+- 👨‍💻 All of my projects are available at [github.com/menudopaio](https://github.com/menudopaio)
 
 - 📫 How to reach me **dgffunde21@gmail.com**
 
