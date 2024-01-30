@@ -1,4 +1,4 @@
-![MasterHead](/share1.jpg)
+![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm David Gonzalez</h1>
 <h3 align="center">Tracing the Path from Learning to Achievement</h3>
