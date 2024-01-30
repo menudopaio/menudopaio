@@ -1,4 +1,4 @@
-[![MASTERHEAD](https://64.media.tumblr.com/tumblr_mdgbj8j3N31qfg7o3o1_250.gif)]
+[![MASTERHEAD]()]
 
 <h1 align="center">Hi 👋, I'm David Gonzalez</h1>
 <h3 align="center">Tracing the Path from Learning to Achievement</h3>
