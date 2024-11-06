@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menudopaio&label=Profile%20views&color=0e75b6&style=flat" alt="menudopaio" /> </p>
 
 
-- 🔭 I’m currently working on [Cirsa Tech Hub](https://menudopaio.github.io/CirsaDesdeCero)
+- 🔭 I’m currently working on a simple webpage[Mes Millor](https://menudopaio.github.io/mesmillorx)
 
-- 🌱 I’m currently learning **Blazor, .NET**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [github.com/menudopaio](https://github.com/menudopaio)
 
